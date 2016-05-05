@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="46" started-at="2016-04-21T16:39:55Z" finished-at="2016-04-21T16:39:55Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="46" started-at="2016-04-21T16:39:55Z" finished-at="2016-04-21T16:39:55Z">
+      <class name="Calculator.Calculate">
+        <test-method status="PASS" signature="Add()[pri:0, instance:Calculator.Calculate@1a25848]" name="Add" duration-ms="14" started-at="2016-04-21T22:09:55Z" finished-at="2016-04-21T22:09:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add -->
+        <test-method status="PASS" signature="Div()[pri:0, instance:Calculator.Calculate@1a25848]" name="Div" duration-ms="1" started-at="2016-04-21T22:09:55Z" finished-at="2016-04-21T22:09:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Div -->
+        <test-method status="PASS" signature="Mul()[pri:0, instance:Calculator.Calculate@1a25848]" name="Mul" duration-ms="0" started-at="2016-04-21T22:09:55Z" finished-at="2016-04-21T22:09:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Mul -->
+        <test-method status="PASS" signature="Sub()[pri:0, instance:Calculator.Calculate@1a25848]" name="Sub" duration-ms="0" started-at="2016-04-21T22:09:55Z" finished-at="2016-04-21T22:09:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sub -->
+      </class> <!-- Calculator.Calculate -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
