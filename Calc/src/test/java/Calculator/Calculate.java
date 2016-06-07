@@ -6,22 +6,22 @@ public class Calculate {
 	
 	@Test
 	public void Add(){
-		System.out.println("Addition is successfull");
+		System.out.println("on master branch - Addition is successfull");
 	}
 	
 	@Test
 	public void Sub(){
-		System.out.println("Subtraction is successfull");
+		System.out.println("on master branch - Subtraction is successfull");
 	}
 	
 	@Test
 	public void Mul(){
-		System.out.println("Multiplication is successfull");
+		System.out.println("on master branch - Multiplication is successfull");
 	}
 	
 	@Test
 	public void Div(){
-		System.out.println("Division is successfull");
+		System.out.println("on master branch - Division is successfull");
 	}
 	
 
